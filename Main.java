@@ -7,5 +7,6 @@ public class Main {
         System.out.println("How are you?");
         System.out.println("How was your day?");
         System.out.println("What time is it?");
+        System.out.println("that's the last for today");
     }
 }
